@@ -1,7 +1,7 @@
 # 📝 To-Do App 
 
-Aplikasi To-Do **berbasis web** yang dirancang sebagai asisten digital dalam mengatur aktivitas sehari-hari.  
-Dengan fitur yang **lengkap** dan tampilan **interaktif**, sistem ini membantu pengguna mencatat, memantau, serta menyelesaikan tugas secara lebih efisien, terorganisir, dan mudah diakses kapan saja.
+Aplikasi To-Do **berbasis web** yang dirancang untuk membantu pengguna dalam mengelola dan mengatur daftar tugas secara efisien. Sistem ini mempermudah pengguna dalam merencanakan aktivitas harian agar lebih terstruktur, terpantau, dan produktif. Dengan tampilan yang responsif dan antarmuka modern, website ini mendukung kebiasaan kerja yang lebih terorganisir serta meningkatkan manajemen waktu pengguna.
+
 
 ---
 
